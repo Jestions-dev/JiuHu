@@ -1,6 +1,6 @@
 # JiuHu Cursor
 
-一只旋转的九尾狐娘，做成 Windows 11 的动画光标。
+酒狐（JiuHu）——一只抱着酒坛的狐娘，做成 Windows 11 的旋转动画光标。
 
 ![preview](preview.gif)
 
